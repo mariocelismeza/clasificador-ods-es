@@ -1,0 +1,370 @@
+[
+  {
+    "componente": 1,
+    "interpretacion": "Vocabulario general de desarrollo; sin ODS único",
+    "terminos": [
+      {
+        "termino": "desarroll",
+        "peso": 0.12616359365819818
+      },
+      {
+        "termino": "polit",
+        "peso": 0.12181197900549368
+      },
+      {
+        "termino": "mayor",
+        "peso": 0.1007739226504626
+      },
+      {
+        "termino": "mejor",
+        "peso": 0.0999623892040612
+      },
+      {
+        "termino": "trabaj",
+        "peso": 0.09647231163735975
+      },
+      {
+        "termino": "aument",
+        "peso": 0.09424570438152975
+      },
+      {
+        "termino": "nivel",
+        "peso": 0.09419530625573201
+      },
+      {
+        "termino": "mujer",
+        "peso": 0.09411238137735518
+      },
+      {
+        "termino": "educ",
+        "peso": 0.09111782972655813
+      },
+      {
+        "termino": "derech",
+        "peso": 0.09065378788174977
+      }
+    ]
+  },
+  {
+    "componente": 2,
+    "interpretacion": "Derechos e instituciones: asociación cualitativa con ODS 16",
+    "terminos": [
+      {
+        "termino": "derech",
+        "peso": 0.40483706871160324
+      },
+      {
+        "termino": "derech human",
+        "peso": 0.22588328817508732
+      },
+      {
+        "termino": "human",
+        "peso": 0.22096618558024989
+      },
+      {
+        "termino": "internacional",
+        "peso": 0.21234662333949517
+      },
+      {
+        "termino": "articul",
+        "peso": 0.16391866335091584
+      },
+      {
+        "termino": "derech internacional",
+        "peso": 0.1329127431357438
+      },
+      {
+        "termino": "energ",
+        "peso": -0.12249281644723402
+      },
+      {
+        "termino": "estad",
+        "peso": 0.118783611056792
+      },
+      {
+        "termino": "tribunal",
+        "peso": 0.11168929503750424
+      },
+      {
+        "termino": "ley",
+        "peso": 0.11131008635809334
+      }
+    ]
+  },
+  {
+    "componente": 3,
+    "interpretacion": "Eje social frente a agua y energía; varios ODS",
+    "terminos": [
+      {
+        "termino": "mujer",
+        "peso": 0.23986701211540895
+      },
+      {
+        "termino": "agu",
+        "peso": -0.21336336435023406
+      },
+      {
+        "termino": "energ",
+        "peso": -0.18968695603648622
+      },
+      {
+        "termino": "trabaj",
+        "peso": 0.18787181345589413
+      },
+      {
+        "termino": "educ",
+        "peso": 0.1850066636898145
+      },
+      {
+        "termino": "niñ",
+        "peso": 0.13865818704447835
+      },
+      {
+        "termino": "ingres",
+        "peso": 0.13728829428655143
+      },
+      {
+        "termino": "hombr",
+        "peso": 0.13240449804978657
+      },
+      {
+        "termino": "pobrez",
+        "peso": 0.12592556706130495
+      },
+      {
+        "termino": "laboral",
+        "peso": 0.12406532688752114
+      }
+    ]
+  },
+  {
+    "componente": 4,
+    "interpretacion": "Educación: asociación cualitativa con ODS 4",
+    "terminos": [
+      {
+        "termino": "escuel",
+        "peso": 0.22698061443866968
+      },
+      {
+        "termino": "educ",
+        "peso": 0.21128891988351747
+      },
+      {
+        "termino": "estudi",
+        "peso": 0.16765450789757863
+      },
+      {
+        "termino": "pobrez",
+        "peso": -0.14845731635134313
+      },
+      {
+        "termino": "docent",
+        "peso": 0.14109695947758985
+      },
+      {
+        "termino": "derech",
+        "peso": -0.14106071981310767
+      },
+      {
+        "termino": "mujer",
+        "peso": -0.13992842486900775
+      },
+      {
+        "termino": "ingres",
+        "peso": -0.13762175266144866
+      },
+      {
+        "termino": "aprendizaj",
+        "peso": 0.12906796771125148
+      },
+      {
+        "termino": "energ",
+        "peso": -0.125334546860796
+      }
+    ]
+  },
+  {
+    "componente": 5,
+    "interpretacion": "Salud y atención: asociación cualitativa con ODS 3",
+    "terminos": [
+      {
+        "termino": "salud",
+        "peso": 0.30403892020213197
+      },
+      {
+        "termino": "atencion",
+        "peso": 0.273346145551918
+      },
+      {
+        "termino": "mujer",
+        "peso": -0.20249697453401239
+      },
+      {
+        "termino": "medic",
+        "peso": 0.18500088674180398
+      },
+      {
+        "termino": "agu",
+        "peso": 0.17842586295343127
+      },
+      {
+        "termino": "servici",
+        "peso": 0.16394706022203911
+      },
+      {
+        "termino": "mental",
+        "peso": 0.16022491604591613
+      },
+      {
+        "termino": "gener",
+        "peso": -0.15917188386558148
+      },
+      {
+        "termino": "pacient",
+        "peso": 0.15556971310968878
+      },
+      {
+        "termino": "energ",
+        "peso": -0.14683076620782565
+      }
+    ]
+  },
+  {
+    "componente": 6,
+    "interpretacion": "Género frente a educación: asociación cualitativa con ODS 5 y 4",
+    "terminos": [
+      {
+        "termino": "mujer",
+        "peso": 0.38105474718684906
+      },
+      {
+        "termino": "estudi",
+        "peso": -0.19259052341893018
+      },
+      {
+        "termino": "gener",
+        "peso": 0.18850291037301553
+      },
+      {
+        "termino": "escuel",
+        "peso": -0.1798057968456169
+      },
+      {
+        "termino": "hombr",
+        "peso": 0.1722739374184038
+      },
+      {
+        "termino": "salud",
+        "peso": 0.16379164930754056
+      },
+      {
+        "termino": "educ",
+        "peso": -0.14482026946758222
+      },
+      {
+        "termino": "atencion",
+        "peso": 0.13430137016095875
+      },
+      {
+        "termino": "servici",
+        "peso": 0.13017591068344161
+      },
+      {
+        "termino": "pobrez",
+        "peso": -0.12151130443512964
+      }
+    ]
+  },
+  {
+    "componente": 7,
+    "interpretacion": "Energía frente a agua y clima: asociación con ODS 7, 6 y 13",
+    "terminos": [
+      {
+        "termino": "energ",
+        "peso": 0.33744465758687736
+      },
+      {
+        "termino": "agu",
+        "peso": -0.3096123126844992
+      },
+      {
+        "termino": "electr",
+        "peso": 0.1980493824343593
+      },
+      {
+        "termino": "renov",
+        "peso": 0.18745694071843294
+      },
+      {
+        "termino": "energ renov",
+        "peso": 0.17109543429579083
+      },
+      {
+        "termino": "climat",
+        "peso": -0.1678888072733033
+      },
+      {
+        "termino": "atencion",
+        "peso": 0.15280940851404673
+      },
+      {
+        "termino": "energet",
+        "peso": 0.146250469986015
+      },
+      {
+        "termino": "salud",
+        "peso": 0.1425422833367311
+      },
+      {
+        "termino": "pobrez",
+        "peso": -0.11894062529860483
+      }
+    ]
+  },
+  {
+    "componente": 8,
+    "interpretacion": "Agua frente a clima: asociación con ODS 6 y 13",
+    "terminos": [
+      {
+        "termino": "agu",
+        "peso": 0.4898956970974703
+      },
+      {
+        "termino": "climat",
+        "peso": -0.2329726751734007
+      },
+      {
+        "termino": "mujer",
+        "peso": 0.1781349524965255
+      },
+      {
+        "termino": "pobrez",
+        "peso": -0.17328197780076682
+      },
+      {
+        "termino": "cambi",
+        "peso": -0.15432005068082102
+      },
+      {
+        "termino": "cambi climat",
+        "peso": -0.1444099851621092
+      },
+      {
+        "termino": "desarroll",
+        "peso": -0.13403722100381102
+      },
+      {
+        "termino": "residual",
+        "peso": 0.10635381021365399
+      },
+      {
+        "termino": "agu residual",
+        "peso": 0.10521744939665756
+      },
+      {
+        "termino": "educ",
+        "peso": 0.10497273584194469
+      }
+    ]
+  }
+]

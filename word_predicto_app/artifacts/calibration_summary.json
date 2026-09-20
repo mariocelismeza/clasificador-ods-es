@@ -1,0 +1,32 @@
+{
+  "metodo": "temperature",
+  "temperatura": 0.27451347784440017,
+  "temperatura_inversa": 3.642808389054108,
+  "log_loss_fuera_de_fold_entrenamiento": 0.6330951756015935,
+  "cv_folds": 5,
+  "n_test": 1931,
+  "ods_modelados": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "predicciones_preservadas": true,
+  "log_loss_test": 0.6752832977858421,
+  "log_loss_softmax_sin_calibrar_test": 1.350500046921986,
+  "brier_multiclase_test": 0.2840394604077857,
+  "ece_top_label_test": 0.04938687719202212,
+  "ece_top_label_softmax_sin_calibrar_test": 0.4699012237551949
+}

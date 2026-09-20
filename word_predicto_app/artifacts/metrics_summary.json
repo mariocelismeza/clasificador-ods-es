@@ -1,0 +1,18 @@
+{
+  "f1_macro_test": 0.7677251917009642,
+  "f1_weighted_test": 0.8135317023242136,
+  "accuracy_test": 0.8140859658208183,
+  "f1_macro_cv": 0.7645690159130013,
+  "n_train": 7725,
+  "n_test": 1931,
+  "n_componentes_lsa": 20,
+  "hiperparametros_pipeline": {
+    "classifier__C": 100,
+    "classifier__class_weight": "balanced",
+    "svd__n_components": 20
+  },
+  "ods_ausentes": [
+    17
+  ],
+  "vocabulario_tfidf": 13014
+}

@@ -1,0 +1,42 @@
+# Entornos y configuración local
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.streamlit/credentials.toml
+
+# Python y herramientas de desarrollo
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editores, sistema y archivos temporales
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*~
+
+# Frontend histórico
+legacy/frontend/node_modules/
+legacy/static/
+
+# Se conservan el notebook, HTML, corpus, modelos y artefactos:
+# forman parte de la entrega o permiten reproducir la app Streamlit.
